@@ -3,7 +3,7 @@
 
 # Movies App 🎬
 
-Hi, do you like movies? 😁 Try MoviesApp  <a href=//github>here</a>.  There are currently 4 themes in the app. Search for your favourite movie and add it to your favourites.
+Hi, do you like movies? 
 
 #Flutter 3.7.3
 #dart 2.19.2
